@@ -1,0 +1,4 @@
+n=input()
+for i in n:
+    x=i.swapcase()
+    print(x,end='')
